@@ -1,4 +1,4 @@
 Certificates:❀
-1.Interpe 
+1.Internpe
 2.CodSoft 
-3
+3.OasisInfobyte
